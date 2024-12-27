@@ -25,7 +25,7 @@ Sistem ini dirancang untuk menyimpan dan mengelola data kepegawaian di **BMKG St
 1. **Clone Repositori**  
    Clone repositori ini ke komputer Anda:  
    ```bash
-   git clone https://github.com/sitiisyaroh/repo-kepegawaian.git
+   git clone [https://github.com/sitiisyaroh/Kepegawaian-BMKG.git]
    cd repo-kepegawaian
 2. **Siapkan Server Lokal**
 Pastikan XAMPP atau server berbasis PHP lainnya telah diinstal. Aktifkan Apache dan MySQL.
