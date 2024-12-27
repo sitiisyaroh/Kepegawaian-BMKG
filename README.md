@@ -46,7 +46,7 @@ $db_name = "kepegawaian";
 ?>
 
 5. **Jalankan Aplikasi**
-Akses melalui browser: http://localhost/repo-kepegawaian.
+Akses melalui browser: http://localhost/bmkg4.
 Login menggunakan akun default:
 - Username: admin
 - Password: admin123
